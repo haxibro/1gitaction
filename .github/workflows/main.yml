@@ -4,4 +4,4 @@ jobs:
   calculate:
     runs-on: ubuntu-latest
     steps:
-      - uses: haxibro/calc-action@main
+      - uses: haxibro/1gitaction@main
