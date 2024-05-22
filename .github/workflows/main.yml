@@ -5,6 +5,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: haxibro/1gitaction@main
-        with:
-          x: 12
-          y : 3
+        #with:
+         # x: 12
+          #y : 3
