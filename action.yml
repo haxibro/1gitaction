@@ -7,7 +7,7 @@ inputs:
 runs:
   using: "composite"
   steps: 
-    
-    run: echo "Hello World"
-    shell: bash
+      run: echo "Hello World"
+      shell: bash
       run: echo "x = ${{ inputs.x}} y = ${{}}"
+      shell: bash
